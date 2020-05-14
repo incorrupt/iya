@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #e0995e;
+      }
+
+      .b {
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: #e0e0d1;
+      }
+
+      .e {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <g>
+    <g>
+      <g class="b">
+        <path class="c" d="M36,23V14H19a3,3,0,0,0-3,3V51a3,3,0,0,0,3,3H45a3,3,0,0,0,3-3V26H39A3,3,0,0,1,36,23Z"/>
+      </g>
+      <path class="d" d="M36,21V12H19a3,3,0,0,0-3,3V49a3,3,0,0,0,3,3H45a3,3,0,0,0,3-3V24H39A3,3,0,0,1,36,21Z"/>
+      <g class="b">
+        <polygon class="c" points="37.02 23.29 48 33 48 24 37.02 23.29"/>
+      </g>
+      <path class="e" d="M36,12v9a3,3,0,0,0,3,3h9Z"/>
+    </g>
+    <g class="b">
+      <rect class="c" x="22" y="22" width="9.63" height="2"/>
+    </g>
+    <g class="b">
+      <rect class="c" x="22" y="32" width="20" height="2"/>
+    </g>
+    <g class="b">
+      <rect class="c" x="22" y="27" width="20" height="2"/>
+    </g>
+    <g class="b">
+      <rect class="c" x="22" y="37" width="20" height="2"/>
+    </g>
+    <g class="b">
+      <rect class="c" x="22" y="42" width="20" height="2"/>
+    </g>
+  </g>
+</svg>

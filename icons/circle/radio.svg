@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #c75c5c;
+      }
+
+      .b, .e {
+        opacity: 0.2;
+      }
+
+      .c, .e {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: none;
+        stroke: #e0e0d1;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .f {
+        fill: #f5cf87;
+      }
+
+      .g {
+        fill: #4f5d73;
+      }
+
+      .h {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons_3</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <g class="b">
+    <path class="c" d="M50,27l-.26,0-34-9A1,1,0,1,1,16.26,16l34,9A1,1,0,0,1,50,27Z"/>
+  </g>
+  <line class="d" x1="50" y1="24" x2="16" y2="15"/>
+  <rect class="e" x="12" y="25" width="40" height="24" rx="2"/>
+  <rect class="f" x="12" y="23" width="40" height="24" rx="2"/>
+  <circle class="g" cx="24" cy="35" r="8"/>
+  <g class="b">
+    <path class="c" d="M24,29a8,8,0,0,1,7.93,7A8.26,8.26,0,0,0,32,35a8,8,0,0,0-16,0,8.26,8.26,0,0,0,.07,1A8,8,0,0,1,24,29Z"/>
+  </g>
+  <circle class="e" cx="36.5" cy="42.5" r="1.5"/>
+  <circle class="e" cx="41.5" cy="42.5" r="1.5"/>
+  <circle class="e" cx="46.5" cy="42.5" r="1.5"/>
+  <circle class="g" cx="36.5" cy="41.5" r="1.5"/>
+  <circle class="g" cx="41.5" cy="41.5" r="1.5"/>
+  <circle class="g" cx="46.5" cy="41.5" r="1.5"/>
+  <rect class="h" x="35" y="28" width="13" height="9" rx="2"/>
+  <g class="b">
+    <path class="c" d="M46,28H37a2,2,0,0,0-2,2v2a2,2,0,0,1,2-2h9a2,2,0,0,1,2,2V30A2,2,0,0,0,46,28Z"/>
+  </g>
+</svg>

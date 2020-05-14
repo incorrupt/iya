@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #e0995e;
+      }
+
+      .b, .f {
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: #4f5d73;
+      }
+
+      .e, .f {
+        fill: #fff;
+      }
+
+      .g {
+        fill: #e0e0d1;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons_3</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <g class="b">
+    <rect class="c" x="17" y="13" width="30" height="40" rx="4"/>
+  </g>
+  <g>
+    <rect class="d" x="18.5" y="12.5" width="27" height="37" rx="2.5"/>
+    <path class="e" d="M43,14a1,1,0,0,1,1,1V47a1,1,0,0,1-1,1H21a1,1,0,0,1-1-1V15a1,1,0,0,1,1-1H43m0-3H21a4,4,0,0,0-4,4V47a4,4,0,0,0,4,4H43a4,4,0,0,0,4-4V15a4,4,0,0,0-4-4Z"/>
+  </g>
+  <path class="f" d="M45,48.54v-36H24.7L40,49.46C41.65,49.12,43.32,48.82,45,48.54Z"/>
+  <polygon class="e" points="45 50 20 50 19 43 45 43 45 50"/>
+  <circle class="g" cx="32" cy="47" r="2"/>
+</svg>

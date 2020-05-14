@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #77b3d4;
+      }
+
+      .b {
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: #e0995e;
+      }
+
+      .e {
+        fill: #c75c5c;
+      }
+
+      .f {
+        fill: #e0e0d1;
+      }
+
+      .g {
+        fill: #fff;
+      }
+
+      .h {
+        fill: #4f5d73;
+      }
+
+      .i {
+        fill: #76c2af;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons</title>
+  <circle class="a" cx="31.83" cy="32" r="32"/>
+  <g class="b">
+    <path class="c" d="M52,48a2,2,0,0,1-2,2H14a2,2,0,0,1-2-2h0a2,2,0,0,1,2-2H50a2,2,0,0,1,2,2Z"/>
+  </g>
+  <path class="d" d="M52,46a2,2,0,0,1-2,2H14a2,2,0,0,1-2-2h0a2,2,0,0,1,2-2H50a2,2,0,0,1,2,2Z"/>
+  <path class="e" d="M23,20H19a3,3,0,0,0-3,3V44H26V23A3,3,0,0,0,23,20Z"/>
+  <path class="f" d="M45,16H41a3,3,0,0,0-3,3V44H48V19A3,3,0,0,0,45,16Z"/>
+  <rect class="d" x="16" y="24" width="10" height="3"/>
+  <rect class="d" x="16" y="37" width="10" height="3"/>
+  <rect class="g" x="38" y="37" width="10" height="3"/>
+  <rect class="g" x="38" y="20" width="10" height="3"/>
+  <g>
+    <g class="b">
+      <path class="c" d="M40,40V16.18A3,3,0,0,0,38,19V44h2V40Z"/>
+    </g>
+    <g class="b">
+      <path class="c" d="M26,40V23a3,3,0,0,0-2-2.82V44h2V40Z"/>
+    </g>
+  </g>
+  <path class="h" d="M35,12H29a3,3,0,0,0-3,3V44H38V15A3,3,0,0,0,35,12Z"/>
+  <rect class="i" x="26" y="16" width="12" height="3"/>
+  <rect class="i" x="26" y="37" width="12" height="3"/>
+</svg>

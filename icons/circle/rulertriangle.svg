@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #c75c5c;
+      }
+
+      .b {
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: #f5cf87;
+      }
+
+      .e {
+        fill: #e0995e;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons_3</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <g class="b">
+    <path class="c" d="M50,48H18a4,4,0,0,1-4-4V20a4,4,0,0,1,6.4-3.2l32,24A4,4,0,0,1,50,48ZM22,40H38L22,28Z"/>
+  </g>
+  <path class="d" d="M50,46H18a4,4,0,0,1-4-4V18a4,4,0,0,1,6.4-3.2l32,24A4,4,0,0,1,50,46ZM22,38H38L22,26Z"/>
+  <g>
+    <path class="e" d="M21,41a1,1,0,0,0-1,1v4h2V42A1,1,0,0,0,21,41Z"/>
+    <path class="e" d="M26,43a1,1,0,0,0-1,1v2h2V44A1,1,0,0,0,26,43Z"/>
+    <path class="e" d="M31,41a1,1,0,0,0-1,1v4h2V42A1,1,0,0,0,31,41Z"/>
+    <path class="e" d="M36,43a1,1,0,0,0-1,1v2h2V44A1,1,0,0,0,36,43Z"/>
+    <path class="e" d="M41,41a1,1,0,0,0-1,1v4h2V42A1,1,0,0,0,41,41Z"/>
+    <path class="e" d="M47,44a1,1,0,0,0-2,0v2h2Z"/>
+  </g>
+</svg>

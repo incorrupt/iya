@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #4f5d73;
+      }
+
+      .b {
+        fill: #231f20;
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #c75c5c;
+      }
+
+      .d {
+        fill: #e0995e;
+      }
+
+      .e {
+        fill: #f5cf87;
+      }
+
+      .f {
+        fill: #76c2af;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons_3</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <rect class="b" x="26" y="46" width="12" height="4"/>
+  <rect class="b" x="40" y="46" width="12" height="4"/>
+  <rect class="b" x="12" y="46" width="12" height="4"/>
+  <rect class="b" x="26" y="41" width="12" height="4"/>
+  <rect class="b" x="40" y="41" width="12" height="4"/>
+  <rect class="b" x="12" y="41" width="12" height="4"/>
+  <rect class="b" x="26" y="36" width="12" height="4"/>
+  <rect class="b" x="40" y="36" width="12" height="4"/>
+  <rect class="b" x="12" y="36" width="12" height="4"/>
+  <rect class="b" x="26" y="31" width="12" height="4"/>
+  <rect class="b" x="40" y="31" width="12" height="4"/>
+  <rect class="b" x="26" y="26" width="12" height="4"/>
+  <rect class="b" x="26" y="21" width="12" height="4"/>
+  <rect class="b" x="26" y="16" width="12" height="4"/>
+  <rect class="c" x="26" y="44" width="12" height="4"/>
+  <rect class="c" x="40" y="44" width="12" height="4"/>
+  <rect class="c" x="12" y="44" width="12" height="4"/>
+  <rect class="d" x="26" y="39" width="12" height="4"/>
+  <rect class="d" x="40" y="39" width="12" height="4"/>
+  <rect class="d" x="12" y="39" width="12" height="4"/>
+  <rect class="d" x="26" y="34" width="12" height="4"/>
+  <rect class="d" x="40" y="34" width="12" height="4"/>
+  <rect class="d" x="12" y="34" width="12" height="4"/>
+  <rect class="e" x="26" y="29" width="12" height="4"/>
+  <rect class="e" x="40" y="29" width="12" height="4"/>
+  <rect class="e" x="26" y="24" width="12" height="4"/>
+  <rect class="f" x="26" y="19" width="12" height="4"/>
+  <rect class="f" x="26" y="14" width="12" height="4"/>
+</svg>

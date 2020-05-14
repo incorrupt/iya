@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #e0995e;
+      }
+
+      .b {
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons_2</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <g class="b">
+    <polygon class="c" points="43.28 34 20.72 34 17.72 42 46.28 42 43.28 34"/>
+    <path class="c" d="M35.9,14.29c-2.15-5.72-5.65-5.72-7.8,0L23.72,26H40.28Z"/>
+    <path class="c" d="M14,48a2,2,0,0,0,0,4H50a2,2,0,0,0,0-4Z"/>
+  </g>
+  <g>
+    <polygon class="d" points="43.28 32 20.72 32 17.72 40 46.28 40 43.28 32"/>
+    <path class="d" d="M35.9,12.29c-2.15-5.72-5.65-5.72-7.8,0L23.72,24H40.28Z"/>
+    <path class="d" d="M14,46a2,2,0,0,0,0,4H50a2,2,0,0,0,0-4Z"/>
+  </g>
+</svg>

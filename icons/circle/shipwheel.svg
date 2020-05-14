@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #4f5d73;
+      }
+
+      .b, .e {
+        opacity: 0.2;
+      }
+
+      .c, .e {
+        fill: #231f20;
+      }
+
+      .d, .g {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .d {
+        stroke: #e0995e;
+        stroke-linecap: round;
+      }
+
+      .f {
+        fill: #f5cf87;
+      }
+
+      .g {
+        stroke: #f5cf87;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons_2</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <g class="b">
+    <path class="c" d="M32,60a2,2,0,0,1-2-2V10a2,2,0,0,1,4,0V58A2,2,0,0,1,32,60Z"/>
+    <path class="c" d="M56,36H8a2,2,0,0,1,0-4H56a2,2,0,0,1,0,4Z"/>
+    <path class="c" d="M49,53a2,2,0,0,1-1.41-.59L13.62,18.44a2,2,0,0,1,2.82-2.82L50.38,49.56a2,2,0,0,1,0,2.82A2,2,0,0,1,49,53Z"/>
+    <path class="c" d="M15,53a2,2,0,0,1-1.41-.59,2,2,0,0,1,0-2.82L47.56,15.62a2,2,0,0,1,2.82,2.82L16.44,52.38A2,2,0,0,1,15,53Z"/>
+  </g>
+  <g>
+    <line class="d" x1="32" y1="8" x2="32" y2="56"/>
+    <line class="d" x1="56" y1="32" x2="8" y2="32"/>
+    <line class="d" x1="48.97" y1="48.97" x2="15.03" y2="15.03"/>
+    <line class="d" x1="15.03" y1="48.97" x2="48.97" y2="15.03"/>
+  </g>
+  <path class="e" d="M32,18A16,16,0,1,1,16,34,16,16,0,0,1,32,18m0-4A20,20,0,1,0,52,34,20,20,0,0,0,32,14Z"/>
+  <path class="f" d="M32,16A16,16,0,1,1,16,32,16,16,0,0,1,32,16m0-4A20,20,0,1,0,52,32,20,20,0,0,0,32,12Z"/>
+  <circle class="a" cx="32" cy="32" r="6"/>
+  <g class="b">
+    <path class="c" d="M32,44A10,10,0,1,1,42,34,10,10,0,0,1,32,44Zm0-16a6,6,0,1,0,6,6A6,6,0,0,0,32,28Z"/>
+  </g>
+  <circle class="g" cx="32" cy="32" r="8"/>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a, .i {
+        fill: #4f5d73;
+      }
+
+      .b, .e {
+        fill: #231f20;
+      }
+
+      .b, .d {
+        opacity: 0.2;
+      }
+
+      .c, .h {
+        fill: #e0995e;
+      }
+
+      .f {
+        fill: none;
+      }
+
+      .f, .g, .h, .i {
+        stroke: #f5cf87;
+        stroke-miterlimit: 10;
+      }
+
+      .f, .g, .i {
+        stroke-width: 4px;
+      }
+
+      .g {
+        fill: #f5cf87;
+      }
+
+      .h {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons_2</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <g>
+    <rect class="b" x="14" y="37" width="6" height="15" rx="2"/>
+    <rect class="b" x="44" y="37" width="6" height="15" rx="2"/>
+    <rect class="c" x="14" y="35" width="6" height="15" rx="2"/>
+    <rect class="c" x="44" y="35" width="6" height="15" rx="2"/>
+    <g class="d">
+      <path class="e" d="M44,38H20a6,6,0,0,1-6-6l0-.39,2-7.13C17,21.05,19.21,19,22,19H42c2.79,0,5,2.05,5.93,5.48l0,.13L50,32A6,6,0,0,1,44,38ZM18,32.16A2,2,0,0,0,20,34H44a2,2,0,0,0,2-1.84l-1.94-6.7c-.22-.79-.83-2.46-2-2.46H22c-1.22,0-1.83,1.67-2.05,2.46Z"/>
+    </g>
+    <path class="f" d="M48.38,32c0,2.21-2.17,2-4.38,2H20c-2.21,0-4.56.21-4.56-2L18,23c.54-2,1.79-4,4-4H42c2.21,0,3.46,2,4,4Z"/>
+    <g class="d">
+      <rect class="e" x="12" y="34" width="40" height="12" rx="4"/>
+      <path class="e" d="M48,48H16a6,6,0,0,1-6-6V38a6,6,0,0,1,6-6H48a6,6,0,0,1,6,6v4A6,6,0,0,1,48,48ZM16,36a2,2,0,0,0-2,2v4a2,2,0,0,0,2,2H48a2,2,0,0,0,2-2V38a2,2,0,0,0-2-2Z"/>
+    </g>
+    <rect class="g" x="12" y="32" width="40" height="12" rx="4"/>
+    <path class="h" d="M21,39a4,4,0,0,1-4,4h0a4,4,0,0,1-4-4h0a4,4,0,0,1,4-4h0a4,4,0,0,1,4,4Z"/>
+    <path class="h" d="M51,39a4,4,0,0,1-4,4h0a4,4,0,0,1-4-4h0a4,4,0,0,1,4-4h0a4,4,0,0,1,4,4Z"/>
+    <path class="i" d="M37.56,17.72c0,.9.13.81-.77.81h-9.7c-.89,0-.84.09-.84-.81l0-.63c.21-.81.72-1.62,1.61-1.62H36c.89,0,1.39.81,1.61,1.62Z"/>
+  </g>
+</svg>

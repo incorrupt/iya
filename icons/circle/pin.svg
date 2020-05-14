@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #e0e0d1;
+      }
+
+      .b {
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: #c75c5c;
+      }
+
+      .e {
+        fill: #4f5d73;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <g class="b">
+    <path class="c" d="M39.5,37.15V22.85c2.74-.92,4.5-2.33,4.5-3.9,0-2.76-5.37-4-12-4s-12,1.24-12,4c0,1.57,1.76,3,4.5,3.9v14.3c-2.74.92-4.5,2.33-4.5,3.9,0,2.48,4.33,4.53,10,4.93v7.07l2,4,2-4V46c5.67-.4,10-2.45,10-4.93C44,39.48,42.24,38.07,39.5,37.15Z"/>
+  </g>
+  <ellipse class="d" cx="32" cy="39.05" rx="12" ry="5"/>
+  <path class="d" d="M44,17c0,2.76-5.37,5-12,5s-12-2.24-12-5,5.37-4,12-4S44,14.19,44,17Z"/>
+  <rect class="d" x="25" y="20" width="14" height="20"/>
+  <polygon class="e" points="30 51.05 32 55.05 34 51.05 34 41.05 30 41.05 30 51.05"/>
+  <ellipse class="e" cx="32" cy="41.24" rx="2" ry="1.44"/>
+</svg>

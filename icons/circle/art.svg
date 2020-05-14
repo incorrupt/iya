@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #e0e0d1;
+      }
+
+      .b {
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: #e0995e;
+      }
+
+      .e {
+        fill: #c75c5c;
+      }
+
+      .f {
+        fill: #f5cf87;
+      }
+
+      .g {
+        fill: #76c2af;
+      }
+
+      .h {
+        fill: #fff;
+      }
+
+      .i {
+        fill: #4f5d73;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons</title>
+  <circle class="a" cx="31.83" cy="32" r="32"/>
+  <g class="b">
+    <path class="c" d="M32,12A22.08,22.08,0,0,0,10.92,27.66c-1.56,5.19,5.18,3.11,5.64,9.15.38,4.94-1.11,6.6-1.44,9.57-.43,4,8.88,10,17.24,9.62,12.28-.56,21.69-9.71,21.69-22A21.87,21.87,0,0,0,32,12ZM24,48a4,4,0,1,1,4-4A4,4,0,0,1,24,48Z"/>
+  </g>
+  <path class="d" d="M32,10A22.08,22.08,0,0,0,10.92,25.66c-1.56,5.19,5.18,3.11,5.64,9.15.38,4.94-1.11,6.6-1.44,9.57-.43,4,8.88,10,17.24,9.62,12.28-.56,21.69-9.71,21.69-22A21.87,21.87,0,0,0,32,10ZM24,46a4,4,0,1,1,4-4A4,4,0,0,1,24,46Z"/>
+  <g class="b">
+    <circle class="c" cx="20.72" cy="25" r="4"/>
+  </g>
+  <g class="b">
+    <circle class="c" cx="32" cy="19.61" r="4"/>
+  </g>
+  <g class="b">
+    <circle class="c" cx="43.21" cy="24.73" r="4"/>
+  </g>
+  <g class="b">
+    <circle class="c" cx="46.19" cy="37.27" r="4"/>
+  </g>
+  <g class="b">
+    <circle class="c" cx="37.1" cy="47.1" r="4"/>
+  </g>
+  <circle class="e" cx="20.72" cy="23" r="4"/>
+  <circle class="f" cx="32" cy="17.61" r="4"/>
+  <circle class="g" cx="43.21" cy="22.73" r="4"/>
+  <circle class="h" cx="46.19" cy="35.27" r="4"/>
+  <circle class="i" cx="37.1" cy="45.1" r="4"/>
+</svg>

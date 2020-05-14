@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #76c2af;
+      }
+
+      .b {
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: #e0e0d1;
+      }
+
+      .e {
+        fill: #c75c5c;
+      }
+
+      .f {
+        fill: #e0995e;
+      }
+
+      .g {
+        fill: #f5cf87;
+      }
+
+      .h {
+        fill: #4f5d73;
+      }
+
+      .i {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons</title>
+  <circle class="a" cx="31.83" cy="32" r="32"/>
+  <g>
+    <g>
+      <g class="b">
+        <path class="c" d="M28,23V14H15a3,3,0,0,0-3,3V51a3,3,0,0,0,3,3H37a3,3,0,0,0,3-3V26H31A3,3,0,0,1,28,23Z"/>
+      </g>
+      <path class="d" d="M37,12H15a3,3,0,0,0-3,3V49a3,3,0,0,0,3,3H37a3,3,0,0,0,3-3V15A3,3,0,0,0,37,12Z"/>
+    </g>
+    <g class="b">
+      <rect class="c" x="16" y="19" width="10" height="2"/>
+    </g>
+    <g class="b">
+      <rect class="c" x="16" y="35" width="20" height="2"/>
+    </g>
+    <g class="b">
+      <rect class="c" x="16" y="30" width="20" height="2"/>
+    </g>
+    <g class="b">
+      <rect class="c" x="16" y="25" width="20" height="2"/>
+    </g>
+    <g class="b">
+      <rect class="c" x="16" y="40" width="20" height="2"/>
+    </g>
+    <g class="b">
+      <rect class="c" x="16" y="45" width="20" height="2"/>
+    </g>
+  </g>
+  <g class="b">
+    <path class="c" d="M55.12,21.86l-7.07-7.07a3,3,0,0,0-4.24,0l-3.54,3.54-.71.71L23.3,35.3l-1.88,9.43-1,4.71,4.72-.94,9.43-1.89L50.88,30.35l.71-.71,3.53-3.53A3,3,0,0,0,55.12,21.86Z"/>
+  </g>
+  <rect class="e" x="41.34" y="12.66" width="12" height="16" rx="3" transform="translate(-0.74 39.53) rotate(-45)"/>
+  <rect class="f" x="21.2" y="24.31" width="24" height="4" transform="translate(-8.88 31.18) rotate(-45)"/>
+  <rect class="g" x="23.74" y="27.26" width="26" height="8" transform="translate(-11.35 35.13) rotate(-45)"/>
+  <rect class="f" x="29.69" y="32.8" width="24" height="4" transform="translate(-12.4 39.67) rotate(-45)"/>
+  <g>
+    <polygon class="h" points="20.47 47.53 25.19 46.58 21.42 42.81 20.47 47.53"/>
+    <polygon class="i" points="23.3 33.38 21.42 42.81 25.19 46.58 34.62 44.7 33.2 43.28 33.2 40.46 27.54 40.46 27.54 34.8 24.72 34.8 23.3 33.38"/>
+  </g>
+</svg>

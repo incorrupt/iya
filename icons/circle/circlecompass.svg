@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #c75c5c;
+      }
+
+      .b, .c, .f {
+        fill: none;
+        stroke: #e0e0d1;
+        stroke-width: 4px;
+      }
+
+      .b, .c {
+        stroke-linecap: round;
+      }
+
+      .b, .f {
+        stroke-miterlimit: 10;
+      }
+
+      .c {
+        stroke-linejoin: round;
+      }
+
+      .d {
+        opacity: 0.2;
+      }
+
+      .e {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons_3</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <path class="b" d="M44.24,34.31a16.17,16.17,0,0,1-24.48,0"/>
+  <line class="c" x1="32" y1="17" x2="32" y2="12"/>
+  <g class="d">
+    <path class="e" d="M47.76,51.05l-12-22.32a4.29,4.29,0,0,1-5,.75,11.2,11.2,0,0,1-2.15-1.28L16.24,51.05A2,2,0,0,0,19.76,53L32,30.22,44.24,53A2,2,0,0,0,46,54a2,2,0,0,0,1-.24A2,2,0,0,0,47.76,51.05Z"/>
+  </g>
+  <path class="c" d="M35.14,29.84,46,50"/>
+  <path class="c" d="M18,50,29,29.65"/>
+  <g class="d">
+    <path class="e" d="M32,34a8,8,0,1,1,8-8A8,8,0,0,1,32,34Zm0-12a4,4,0,1,0,4,4A4,4,0,0,0,32,22Z"/>
+  </g>
+  <circle class="f" cx="32" cy="24" r="6"/>
+</svg>

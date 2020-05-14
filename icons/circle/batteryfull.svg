@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #77b3d4;
+      }
+
+      .b {
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: #4f5d73;
+      }
+
+      .e {
+        fill: #fff;
+      }
+
+      .f {
+        fill: #76c2af;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons_3</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <g class="b">
+    <path class="c" d="M50,28H48V40h2a2,2,0,0,0,2-2V30A2,2,0,0,0,50,28Z"/>
+    <path class="c" d="M48,25a2,2,0,0,0-2-2H14a2,2,0,0,0-2,2V43a2,2,0,0,0,2,2H46a2,2,0,0,0,2-2V25ZM45,42H15V26H45Z"/>
+    <rect class="c" x="17" y="28" width="26" height="12"/>
+  </g>
+  <g>
+    <path class="d" d="M50,26H48V38h2a2,2,0,0,0,2-2V28A2,2,0,0,0,50,26Z"/>
+    <g>
+      <rect class="e" x="15" y="24" width="30" height="16"/>
+      <path class="d" d="M46,21H14a2,2,0,0,0-2,2V41a2,2,0,0,0,2,2H46a2,2,0,0,0,2-2V23A2,2,0,0,0,46,21ZM45,40H15V24H45Z"/>
+    </g>
+    <rect class="f" x="17" y="26" width="26" height="12"/>
+  </g>
+</svg>

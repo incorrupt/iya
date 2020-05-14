@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #76c2af;
+      }
+
+      .b {
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: #fff;
+      }
+
+      .e {
+        fill: #e0e0d1;
+      }
+
+      .f {
+        fill: #4f5d73;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <g class="b">
+    <path class="c" d="M44,52a2,2,0,0,1-2,2H22a2,2,0,0,1-2-2h0a2,2,0,0,1,2-2H42a2,2,0,0,1,2,2Z"/>
+  </g>
+  <path class="d" d="M44,50a2,2,0,0,1-2,2H22a2,2,0,0,1-2-2h0a2,2,0,0,1,2-2H42a2,2,0,0,1,2,2Z"/>
+  <path class="e" d="M37,42s-1,6,3,6H24c4,0,3-6,3-6Z"/>
+  <g class="b">
+    <rect class="c" x="12" y="14" width="40" height="30" rx="4"/>
+  </g>
+  <g>
+    <rect class="f" x="13.5" y="13.5" width="37" height="27" rx="2.5"/>
+    <path class="d" d="M48,15a1,1,0,0,1,1,1V38a1,1,0,0,1-1,1H16a1,1,0,0,1-1-1V16a1,1,0,0,1,1-1H48m0-3H16a4,4,0,0,0-4,4V38a4,4,0,0,0,4,4H48a4,4,0,0,0,4-4V16a4,4,0,0,0-4-4Z"/>
+  </g>
+  <g class="b">
+    <polygon class="d" points="50 39.88 50 13.88 26.25 13.88 41.2 39.88 50 39.88"/>
+  </g>
+</svg>

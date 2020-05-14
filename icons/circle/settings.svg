@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #76c2af;
+      }
+
+      .b {
+        fill: #4f5d73;
+      }
+
+      .c {
+        opacity: 0.2;
+      }
+
+      .d {
+        fill: #231f20;
+      }
+
+      .e {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <path class="b" d="M32,52a2,2,0,0,1-2-2V18a2,2,0,0,1,2-2h0a2,2,0,0,1,2,2V50a2,2,0,0,1-2,2Z"/>
+  <path class="b" d="M46,52a2,2,0,0,1-2-2V18a2,2,0,0,1,2-2h0a2,2,0,0,1,2,2V50a2,2,0,0,1-2,2Z"/>
+  <path class="b" d="M18,52a2,2,0,0,1-2-2V18a2,2,0,0,1,2-2h0a2,2,0,0,1,2,2V50a2,2,0,0,1-2,2Z"/>
+  <g class="c">
+    <circle class="d" cx="45.86" cy="38" r="4"/>
+  </g>
+  <g class="c">
+    <circle class="d" cx="32" cy="27" r="4"/>
+  </g>
+  <g class="c">
+    <circle class="d" cx="18" cy="44" r="4"/>
+  </g>
+  <circle class="e" cx="45.86" cy="36" r="4"/>
+  <circle class="e" cx="32" cy="25" r="4"/>
+  <circle class="e" cx="18" cy="42" r="4"/>
+</svg>

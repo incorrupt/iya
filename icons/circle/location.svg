@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .a {
+        fill: #76c2af;
+      }
+
+      .b {
+        opacity: 0.2;
+      }
+
+      .c {
+        fill: #231f20;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Elegant_circle-icons</title>
+  <circle class="a" cx="32" cy="32" r="32"/>
+  <g class="b">
+    <path class="c" d="M32,14A16.9,16.9,0,0,0,15,30.8C15,45.5,32,56,32,56S49,45.76,49,30.8A16.9,16.9,0,0,0,32,14Zm0,24a8,8,0,1,1,8-8A8,8,0,0,1,32,38Z"/>
+  </g>
+  <path class="d" d="M32,12A16.9,16.9,0,0,0,15,28.8C15,43.5,32,54,32,54S49,43.76,49,28.8A16.9,16.9,0,0,0,32,12Zm0,24a8,8,0,1,1,8-8A8,8,0,0,1,32,36Z"/>
+</svg>
